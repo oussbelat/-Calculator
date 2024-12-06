@@ -1,0 +1,1 @@
+This Python code is a simple calculator that performs basic arithmetic operations. It takes two numbers and an operator (+, -, *, /, or **) as input from the user, then calculates and displays the result. It handles division by zero and invalid operators by showing appropriate error messages
